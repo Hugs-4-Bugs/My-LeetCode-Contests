@@ -13,12 +13,10 @@ Welcome to my LeetCode contest problem-solving page! Here, you’ll find an over
   <tr>
     <td><img width="300" alt="Screenshot 2025-01-05 at 10 11 13 AM" src="https://github.com/user-attachments/assets/8adcf415-14ad-46df-b903-95bc143dc1ca" /></td>
     <td><img width="300" alt="Screenshot 2025-01-05 at 10 11 37 AM" src="https://github.com/user-attachments/assets/e599ca36-df1e-468e-b3cf-79ff230b45fa" /></td>
+        <td><img width="300" alt="Screenshot 2025-01-05 at 10 11 59 AM" src="https://github.com/user-attachments/assets/71066696-4474-48db-99e8-c6d7d0d21fdf" /></td>
   </tr>
   <tr>
-    <td><img width="300" alt="Screenshot 2025-01-05 at 10 11 59 AM" src="https://github.com/user-attachments/assets/71066696-4474-48db-99e8-c6d7d0d21fdf" /></td>
     <td><img width="300" alt="Screenshot 2025-01-05 at 10 12 21 AM" src="https://github.com/user-attachments/assets/22c5491c-7efc-4623-bd41-779b76cd1fd2" /></td>
-  </tr>
-  <tr>
     <td><img width="300" alt="Screenshot 2025-01-05 at 10 14 07 AM" src="https://github.com/user-attachments/assets/dbe13a9b-2c35-4078-9037-61bbac36a2b0" /></td>
   </tr>
 </table>
