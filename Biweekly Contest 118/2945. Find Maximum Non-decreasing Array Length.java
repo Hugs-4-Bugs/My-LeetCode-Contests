@@ -1,4 +1,5 @@
-    public int findMaximumLength(int[] A) {
+class Solution {
+public int findMaximumLength(int[] A) {
         int n = A.length;
         int[] pre = new int[n + 2], dp = new int[n + 1];
         long[] acc = new long[n + 1];
@@ -16,3 +17,4 @@
         }
         return dp[n];
     }
+}
