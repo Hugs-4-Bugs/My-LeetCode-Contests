@@ -1,34 +1,41 @@
-public static long validSubstringCount(String word1, String word2) {
-        int[] v = new int[26];
+class Solution {
+    public long validSubstringCount(String word1, String word2) {
+        int n = word1.length();
+        int m = word2.length();
+        if (m > n) return 0;
+
+        HashMap<Character, Integer> count2 = new HashMap<>();
+        HashMap<Character, Integer> count1 = new HashMap<>();
+
         for (char c : word2.toCharArray()) {
-            v[c - 'a']++;
+            count2.put(c, count2.getOrDefault(c, 0) + 1);
         }
 
-        int[] cnt = new int[26];
-        int start = 0;
-        int k = word2.length();
-        long count = 0;
+        long result = 0;
+        int required = count2.size();
+        int formed = 0;
+        int left = 0;
 
-        for (int i = 0; i < word1.length(); i++) {
-            char curr = word1.charAt(i);
-            if (v[curr - 'a'] > 0) {
-                if (cnt[curr - 'a'] < v[curr - 'a']) {
-                    k--;
-                }
+        for (int right = 0; right < n; ++right) {
+            char c = word1.charAt(right);
+            count1.put(c, count1.getOrDefault(c, 0) + 1);
+
+            if (count2.containsKey(c) && count1.get(c).intValue() == count2.get(c).intValue()) {
+                formed++;
             }
 
-            cnt[curr - 'a']++;
-
-            while (k == 0) {
-                count += word1.length() - i;
-                char pre = word1.charAt(start);
-                cnt[pre - 'a']--;
-                if (v[pre - 'a'] > 0 && cnt[pre - 'a'] < v[pre - 'a']) {
-                    k++;
+            while (formed == required) {
+                result += (n - right);
+                char leftChar = word1.charAt(left);
+                count1.put(leftChar, count1.get(leftChar) - 1);
+                
+                if (count2.containsKey(leftChar) && count1.get(leftChar) < count2.get(leftChar)) {
+                    formed--;
                 }
-                start++;
+                left++;
             }
         }
 
-        return count;
+        return result;
     }
+}
