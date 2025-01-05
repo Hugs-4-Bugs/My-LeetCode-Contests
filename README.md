@@ -5,6 +5,31 @@ Welcome to my LeetCode contest problem-solving page! Here, you’ll find an over
 ## Profile
 - [LeetCode Profile](https://leetcode.com/u/Hugs-2-Bugs/)
 
+## My LeetCode Badge
+
+![LeetCode](https://github.com/user-attachments/assets/e70231ef-7cbe-4596-af69-ee35c713fb19)
+
+### LeetCode Rewind 2024
+![image](https://github.com/user-attachments/assets/1db3301d-fe95-4398-9d3b-db7b614409e9)
+
+### Submissions Days
+<img width="607" alt="Screenshot 2025-01-05 at 10 02 58 AM" src="https://github.com/user-attachments/assets/ee09170b-acec-4d46-a1f3-99b516ef5a26" />
+
+### Daily Medals
+<img width="610" alt="Screenshot 2025-01-05 at 10 03 33 AM" src="https://github.com/user-attachments/assets/e920f89a-1ca9-4ca0-b4ca-aa8726221629" />
+
+### Study Plan Medals
+<img width="583" alt="Screenshot 2025-01-05 at 10 04 14 AM" src="https://github.com/user-attachments/assets/643605f6-4c72-4564-b794-34ad148e4efb" />
+
+## My Submissions
+<img width="861" alt="Screenshot 2025-01-05 at 10 04 55 AM" src="https://github.com/user-attachments/assets/dfee20a4-38d1-4321-8184-401fdc71b1a4" /><br> </br>
+
+<img width="863" alt="Screenshot 2025-01-05 at 10 05 31 AM" src="https://github.com/user-attachments/assets/2b948a55-9b8c-4b3e-8781-901ca5537b6a" />
+
+
+
+
+
 ## Contest Participation
 I actively participate in **LeetCode weekly and biweekly contests**, solving problems of varying difficulty levels. Over the course of more than 20 contests, I have gained valuable experience in tackling problems under time constraints and continuously improving my problem-solving strategies.
 
@@ -37,6 +62,8 @@ I actively participate in **LeetCode weekly and biweekly contests**, solving pro
 Feel free to explore my [LeetCode Profile](https://leetcode.com/u/Hugs-2-Bugs/) for more details on my journey and to view the problems I’ve solved in each contest!
 
 ---
+
+
 
 
 
