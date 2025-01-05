@@ -15,7 +15,7 @@ Welcome to my LeetCode contest problem-solving page! Here, you’ll find an over
     <img width="600" alt="Screenshot 2025-01-05 at 10 22 16 AM" src="https://github.com/user-attachments/assets/6952126c-7e64-48ec-8f48-e0415dc1ba02" />
 </div>
 
-
+---
 
 ### LeetCode Rewind 2024  
 <table>
@@ -48,7 +48,7 @@ Welcome to my LeetCode contest problem-solving page! Here, you’ll find an over
 
 <img width="863" alt="Screenshot 2025-01-05 at 10 05 31 AM" src="https://github.com/user-attachments/assets/2b948a55-9b8c-4b3e-8781-901ca5537b6a" />
 
-
+---
 
 
 
