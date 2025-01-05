@@ -8,8 +8,10 @@ Welcome to my LeetCode contest problem-solving page! Here, you’ll find an over
 ## My LeetCode Badge
 <img width="397" alt="Screenshot 2025-01-05 at 10 14 26 AM" src="https://github.com/user-attachments/assets/e607f8eb-4759-43d3-be82-b9befe698827" />
 
-### LeetCode Rewind 2024
+### LeetCode Rewind 2024  
+<img width="507" alt="Screenshot 2025-01-05 at 10 11 13 AM" src="https://github.com/user-attachments/assets/8adcf415-14ad-46df-b903-95bc143dc1ca" />  <img width="507" alt="Screenshot 2025-01-05 at 10 11 37 AM" src="https://github.com/user-attachments/assets/e599ca36-df1e-468e-b3cf-79ff230b45fa" />   <img width="509" alt="Screenshot 2025-01-05 at 10 11 59 AM" src="https://github.com/user-attachments/assets/71066696-4474-48db-99e8-c6d7d0d21fdf" />    <img width="507" alt="Screenshot 2025-01-05 at 10 12 21 AM" src="https://github.com/user-attachments/assets/22c5491c-7efc-4623-bd41-779b76cd1fd2" />    <img width="504" alt="Screenshot 2025-01-05 at 10 14 07 AM" src="https://github.com/user-attachments/assets/dbe13a9b-2c35-4078-9037-61bbac36a2b0" />
 
+---
 
 ### Submissions Days
 <img width="607" alt="Screenshot 2025-01-05 at 10 02 58 AM" src="https://github.com/user-attachments/assets/ee09170b-acec-4d46-a1f3-99b516ef5a26" />
