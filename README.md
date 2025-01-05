@@ -6,7 +6,16 @@ Welcome to my LeetCode contest problem-solving page! Here, you’ll find an over
 - [LeetCode Profile](https://leetcode.com/u/Hugs-2-Bugs/)
 
 ## My LeetCode Badge
-<img width="397" alt="Screenshot 2025-01-05 at 10 14 26 AM" src="https://github.com/user-attachments/assets/e607f8eb-4759-43d3-be82-b9befe698827" />
+<div style="display: flex; justify-content: space-between;">
+    <img width="300" alt="Screenshot 2025-01-05 at 10 14 26 AM" src="https://github.com/user-attachments/assets/e607f8eb-4759-43d3-be82-b9befe698827" />
+</div>
+
+## LeetCode Profile Stats
+<div style="display: flex; justify-content: space-between;">
+    <img width="600" alt="Screenshot 2025-01-05 at 10 22 16 AM" src="https://github.com/user-attachments/assets/6952126c-7e64-48ec-8f48-e0415dc1ba02" />
+</div>
+
+
 
 ### LeetCode Rewind 2024  
 <table>
