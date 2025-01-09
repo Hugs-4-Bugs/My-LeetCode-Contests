@@ -27,8 +27,8 @@ Welcome to my LeetCode contest problem-solving page! Here, you’ll find an over
         <td><img width="300" alt="Screenshot 2025-01-05 at 10 11 59 AM" src="https://github.com/user-attachments/assets/71066696-4474-48db-99e8-c6d7d0d21fdf" /></td>
   </tr>
   <tr>
-      <img width="503" alt="Screenshot 2025-01-09 at 1 42 51 PM" src="https://github.com/user-attachments/assets/50b87e7e-6066-4fd4-b386-381e62394945" />
-      <img width="500" alt="Screenshot 2025-01-09 at 1 42 19 PM" src="https://github.com/user-attachments/assets/3b8e774b-3c9d-4ba7-92b2-f6bde208e333" />
+      <td><img width="300" alt="Screenshot 2025-01-09 at 1 42 51 PM" src="https://github.com/user-attachments/assets/50b87e7e-6066-4fd4-b386-381e62394945" /></td>
+      <td><img width="300" alt="Screenshot 2025-01-09 at 1 42 19 PM" src="https://github.com/user-attachments/assets/3b8e774b-3c9d-4ba7-92b2-f6bde208e333" /></td>
   </tr>
 </table>
 
