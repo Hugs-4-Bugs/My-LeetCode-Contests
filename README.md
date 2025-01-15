@@ -12,7 +12,7 @@ Welcome to my LeetCode contest problem-solving page! Here, you’ll find an over
 
 ## LeetCode Profile Stats
 <div style="display: flex; justify-content: space-between;">
-    <img width="1440" alt="Screenshot 2025-01-08 at 6 34 25 PM" src="https://github.com/user-attachments/assets/a10f7401-3bb4-4c98-a711-34be75da3594" />
+    <img width="1440" alt="Screenshot 2025-01-15 at 6 40 03 PM" src="https://github.com/user-attachments/assets/d9ba563b-e708-43c9-96cc-b4d9aa68b2a7" />
 </div>
 
 
